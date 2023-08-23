@@ -41,17 +41,3 @@ The following sorting techniques are available in this program:
 - Quick Sort
 - Merge Sort
 
-## Getting Started
-
-To get started with this program:
-
-1. Compile the program: `gcc main.c -o sorting_program`
-2. Run the program: `./sorting_program`
-
-## Contributing
-
-Contributions are welcome! If you find any issues or would like to add new features, feel free to open a pull request. Please make sure to follow the existing code style and guidelines.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
