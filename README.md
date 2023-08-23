@@ -1,0 +1,57 @@
+# Sorting Techniques Management System
+
+This program allows users to select sorting techniques provided by the admin. Additionally, admin users have the ability to create, delete, and modify the available sorting techniques. The selected sorting technique is then used to sort a list of numbers provided by the user.
+
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Usage](#usage)
+- [Admin Features](#admin-features)
+- [Sorting Techniques](#sorting-techniques)
+- [Getting Started](#getting-started)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Introduction
+
+Sorting techniques are fundamental in computer science and are used to organize data in specific orders. This program offers a user-friendly interface for users to select sorting techniques, input a list of numbers, and observe the sorted output. Admin users have additional privileges to manage sorting techniques.
+
+## Usage
+
+1. Run the program.
+2. Choose a sorting technique from the available options.
+3. Input a list of numbers separated by spaces.
+4. The program will display the sorted numbers using the selected technique.
+
+## Admin Features
+
+Admin users have the following additional features:
+
+- **Create Technique**: Add a new sorting technique to the list.
+- **Delete Technique**: Remove a sorting technique from the list.
+- **Modify Technique**: Edit the details of an existing sorting technique.
+
+## Sorting Techniques
+
+The following sorting techniques are available in this program:
+
+- Bubble Sort
+- Insertion Sort
+- Selection Sort
+- Quick Sort
+- Merge Sort
+
+## Getting Started
+
+To get started with this program:
+
+1. Compile the program: `gcc main.c -o sorting_program`
+2. Run the program: `./sorting_program`
+
+## Contributing
+
+Contributions are welcome! If you find any issues or would like to add new features, feel free to open a pull request. Please make sure to follow the existing code style and guidelines.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
