@@ -8,9 +8,6 @@ This program allows users to select sorting techniques provided by the admin. Ad
 - [Usage](#usage)
 - [Admin Features](#admin-features)
 - [Sorting Techniques](#sorting-techniques)
-- [Getting Started](#getting-started)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
