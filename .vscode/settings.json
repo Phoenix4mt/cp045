@@ -2,7 +2,8 @@
     "files.associations": {
         "*.embeddedhtml": "html",
         "stdlib.h": "c",
-        "sortinglibrary.h": "c",
+        "sortingLib.h": "c",
         "string.h": "c"
-    }
+    },
+    "C_Cpp.errorSquiggles": "enabled"
 }

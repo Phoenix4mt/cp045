@@ -1,0 +1,5 @@
+[B]BubbleSort 1
+[Q]QuickSort 0
+[M]MergeSort 0
+[I]InsertionSort 1
+[S]SelectionSort 1
