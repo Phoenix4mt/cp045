@@ -1,6 +1,8 @@
 {
     "files.associations": {
         "*.embeddedhtml": "html",
-        "stdlib.h": "c"
+        "stdlib.h": "c",
+        "sortinglibrary.h": "c",
+        "string.h": "c"
     }
 }
