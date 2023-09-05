@@ -24,8 +24,6 @@ Sorting techniques are fundamental in computer science and are used to organize 
 
 Admin users have the following additional features:
 
-- **Create Technique**: Add a new sorting technique to the list.
-- **Delete Technique**: Remove a sorting technique from the list.
 - **Modify Technique**: Edit the details of an existing sorting technique.
 
 ## Sorting Techniques
@@ -37,4 +35,5 @@ The following sorting techniques are available in this program:
 - Selection Sort
 - Quick Sort
 - Merge Sort
+
 
