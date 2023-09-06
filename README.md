@@ -36,4 +36,6 @@ The following sorting techniques are available in this program:
 - Quick Sort
 - Merge Sort
 
+https://ibb.co/vH2zFPV
+https://ibb.co/sR1x2x0
 
